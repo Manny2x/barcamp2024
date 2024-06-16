@@ -1,0 +1,61 @@
+# General
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+
+# Node.js / SvelteKit
+node_modules/
+build/
+.svelte-kit/
+__sapper__/export/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Python / FastAPI
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+ENV.bak/
+venv.bak/
+pip-log.txt
+pip-delete-this-directory.txt
+htmlcov/
+coverage.xml
+*.cover
+.hypothesis/
+.tox/
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Miscellaneous
+*.env
+.env.local
+.env.*.local
+.env.test
+.env.production
+!.env.example

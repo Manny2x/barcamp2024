@@ -1,0 +1,1681 @@
+[
+    {
+        "DivisionId": 1824,
+        "Date": "2024-05-24T12:27:00",
+        "PublicationUpdated": "2024-05-24T12:47:29",
+        "Number": 160,
+        "IsDeferred": false,
+        "EVELType": "",
+        "EVELCountry": "",
+        "Title": "The Tribunal Procedure (Upper Tribunal) (Immigration and Asylum Chamber) (Amendment) Rules 2024",
+        "AyeCount": 135,
+        "NoCount": 10,
+        "DoubleMajorityAyeCount": null,
+        "DoubleMajorityNoCount": null,
+        "AyeTellers": [
+            {
+                "MemberId": 4774,
+                "Name": "Mark Fletcher",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "Bolsover",
+                "ListAs": "Fletcher, Mark",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4752,
+                "Name": "Mark Jenkinson",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "Workington",
+                "ListAs": "Jenkinson, Mark",
+                "ProxyName": null
+            }
+        ],
+        "NoTellers": [
+            {
+                "MemberId": 4357,
+                "Name": "Kirsty Blackman",
+                "Party": "Scottish National Party",
+                "SubParty": null,
+                "PartyColour": "fcf28f",
+                "PartyAbbreviation": "SNP",
+                "MemberFrom": "Aberdeen North",
+                "ListAs": "Blackman, Kirsty",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4463,
+                "Name": "Chris Stephens",
+                "Party": "Scottish National Party",
+                "SubParty": null,
+                "PartyColour": "fcf28f",
+                "PartyAbbreviation": "SNP",
+                "MemberFrom": "Glasgow South West",
+                "ListAs": "Stephens, Chris",
+                "ProxyName": null
+            }
+        ],
+        "Ayes": [],
+        "Noes": [],
+        "FriendlyDescription": null,
+        "FriendlyTitle": null,
+        "NoVoteRecorded": [],
+        "RemoteVotingStart": null,
+        "RemoteVotingEnd": null
+    },
+    {
+        "DivisionId": 1823,
+        "Date": "2024-05-23T15:14:00",
+        "PublicationUpdated": "2024-05-24T13:54:58",
+        "Number": 159,
+        "IsDeferred": false,
+        "EVELType": "",
+        "EVELCountry": "",
+        "Title": "Finance (No. 2) Bill: Third Reading",
+        "AyeCount": 215,
+        "NoCount": 19,
+        "DoubleMajorityAyeCount": null,
+        "DoubleMajorityNoCount": null,
+        "AyeTellers": [
+            {
+                "MemberId": 4752,
+                "Name": "Mark Jenkinson",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "Workington",
+                "ListAs": "Jenkinson, Mark",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4759,
+                "Name": "Joy Morrissey",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "Beaconsfield",
+                "ListAs": "Morrissey, Joy",
+                "ProxyName": null
+            }
+        ],
+        "NoTellers": [
+            {
+                "MemberId": 4413,
+                "Name": "Kirsten Oswald",
+                "Party": "Scottish National Party",
+                "SubParty": null,
+                "PartyColour": "fcf28f",
+                "PartyAbbreviation": "SNP",
+                "MemberFrom": "East Renfrewshire",
+                "ListAs": "Oswald, Kirsten",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4432,
+                "Name": "Patrick Grady",
+                "Party": "Scottish National Party",
+                "SubParty": null,
+                "PartyColour": "fcf28f",
+                "PartyAbbreviation": "SNP",
+                "MemberFrom": "Glasgow North",
+                "ListAs": "Grady, Patrick",
+                "ProxyName": null
+            }
+        ],
+        "Ayes": [],
+        "Noes": [],
+        "FriendlyDescription": null,
+        "FriendlyTitle": null,
+        "NoVoteRecorded": [],
+        "RemoteVotingStart": null,
+        "RemoteVotingEnd": null
+    },
+    {
+        "DivisionId": 1822,
+        "Date": "2024-05-22T19:08:00",
+        "PublicationUpdated": "2024-05-22T19:25:33",
+        "Number": 158,
+        "IsDeferred": false,
+        "EVELType": "",
+        "EVELCountry": "",
+        "Title": "Holocaust Memorial Bill Committee: New Clause 1",
+        "AyeCount": 11,
+        "NoCount": 182,
+        "DoubleMajorityAyeCount": null,
+        "DoubleMajorityNoCount": null,
+        "AyeTellers": [
+            {
+                "MemberId": 4741,
+                "Name": "Nickie Aiken",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "Cities of London and Westminster",
+                "ListAs": "Aiken, Nickie",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 345,
+                "Name": "Edward Leigh",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "Gainsborough",
+                "ListAs": "Leigh, Sir Edward",
+                "ProxyName": null
+            }
+        ],
+        "NoTellers": [
+            {
+                "MemberId": 4759,
+                "Name": "Joy Morrissey",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "Beaconsfield",
+                "ListAs": "Morrissey, Joy",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4752,
+                "Name": "Mark Jenkinson",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "Workington",
+                "ListAs": "Jenkinson, Mark",
+                "ProxyName": null
+            }
+        ],
+        "Ayes": [],
+        "Noes": [],
+        "FriendlyDescription": null,
+        "FriendlyTitle": null,
+        "NoVoteRecorded": [],
+        "RemoteVotingStart": null,
+        "RemoteVotingEnd": null
+    },
+    {
+        "DivisionId": 1821,
+        "Date": "2024-05-22T15:00:00",
+        "PublicationUpdated": "2024-05-22T18:39:52",
+        "Number": 157,
+        "IsDeferred": false,
+        "EVELType": "",
+        "EVELCountry": "",
+        "Title": "Immigration and asylum: Ten Minute Rule Motion",
+        "AyeCount": 74,
+        "NoCount": 49,
+        "DoubleMajorityAyeCount": null,
+        "DoubleMajorityNoCount": null,
+        "AyeTellers": [
+            {
+                "MemberId": 4487,
+                "Name": "Kelly Tolhurst",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "Rochester and Strood",
+                "ListAs": "Tolhurst, Kelly",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4592,
+                "Name": "Caroline Johnson",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "Sleaford and North Hykeham",
+                "ListAs": "Johnson, Dr Caroline",
+                "ProxyName": null
+            }
+        ],
+        "NoTellers": [
+            {
+                "MemberId": 4466,
+                "Name": "Peter Grant",
+                "Party": "Scottish National Party",
+                "SubParty": null,
+                "PartyColour": "fcf28f",
+                "PartyAbbreviation": "SNP",
+                "MemberFrom": "Glenrothes",
+                "ListAs": "Grant, Peter",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4420,
+                "Name": "Gavin Newlands",
+                "Party": "Scottish National Party",
+                "SubParty": null,
+                "PartyColour": "fcf28f",
+                "PartyAbbreviation": "SNP",
+                "MemberFrom": "Paisley and Renfrewshire North",
+                "ListAs": "Newlands, Gavin",
+                "ProxyName": null
+            }
+        ],
+        "Ayes": [],
+        "Noes": [],
+        "FriendlyDescription": null,
+        "FriendlyTitle": null,
+        "NoVoteRecorded": [],
+        "RemoteVotingStart": null,
+        "RemoteVotingEnd": null
+    },
+    {
+        "DivisionId": 1820,
+        "Date": "2024-05-21T18:10:00",
+        "PublicationUpdated": "2024-05-21T18:39:19",
+        "Number": 156,
+        "IsDeferred": false,
+        "EVELType": "",
+        "EVELCountry": "",
+        "Title": "High Speed Rail (Crewe - Manchester) Bill: Instruction (No. 3)",
+        "AyeCount": 323,
+        "NoCount": 7,
+        "DoubleMajorityAyeCount": null,
+        "DoubleMajorityNoCount": null,
+        "AyeTellers": [
+            {
+                "MemberId": 4752,
+                "Name": "Mark Jenkinson",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "Workington",
+                "ListAs": "Jenkinson, Mark",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4759,
+                "Name": "Joy Morrissey",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "Beaconsfield",
+                "ListAs": "Morrissey, Joy",
+                "ProxyName": null
+            }
+        ],
+        "NoTellers": [
+            {
+                "MemberId": 1537,
+                "Name": "Philip Hollobone",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "Kettering",
+                "ListAs": "Hollobone, Mr Philip",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4778,
+                "Name": "Greg Smith",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "Buckingham",
+                "ListAs": "Smith, Greg",
+                "ProxyName": null
+            }
+        ],
+        "Ayes": [],
+        "Noes": [],
+        "FriendlyDescription": null,
+        "FriendlyTitle": null,
+        "NoVoteRecorded": [],
+        "RemoteVotingStart": null,
+        "RemoteVotingEnd": null
+    },
+    {
+        "DivisionId": 1819,
+        "Date": "2024-05-21T15:57:00",
+        "PublicationUpdated": "2024-05-21T17:30:40",
+        "Number": 155,
+        "IsDeferred": false,
+        "EVELType": "",
+        "EVELCountry": "",
+        "Title": "Digital Markets, Competition and Consumers Bill: Consideration of Lords Message: manuscript amendment",
+        "AyeCount": 217,
+        "NoCount": 268,
+        "DoubleMajorityAyeCount": null,
+        "DoubleMajorityNoCount": null,
+        "AyeTellers": [
+            {
+                "MemberId": 4126,
+                "Name": "Mary Glindon",
+                "Party": "Labour",
+                "SubParty": null,
+                "PartyColour": "ea1d0e",
+                "PartyAbbreviation": "Lab",
+                "MemberFrom": "North Tyneside",
+                "ListAs": "Glindon, Mary",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4623,
+                "Name": "Tonia Antoniazzi",
+                "Party": "Labour",
+                "SubParty": null,
+                "PartyColour": "ea1d0e",
+                "PartyAbbreviation": "Lab",
+                "MemberFrom": "Gower",
+                "ListAs": "Antoniazzi, Tonia",
+                "ProxyName": null
+            }
+        ],
+        "NoTellers": [
+            {
+                "MemberId": 4759,
+                "Name": "Joy Morrissey",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "Beaconsfield",
+                "ListAs": "Morrissey, Joy",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4752,
+                "Name": "Mark Jenkinson",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "Workington",
+                "ListAs": "Jenkinson, Mark",
+                "ProxyName": null
+            }
+        ],
+        "Ayes": [],
+        "Noes": [],
+        "FriendlyDescription": null,
+        "FriendlyTitle": null,
+        "NoVoteRecorded": [],
+        "RemoteVotingStart": null,
+        "RemoteVotingEnd": null
+    },
+    {
+        "DivisionId": 1818,
+        "Date": "2024-05-17T09:35:00",
+        "PublicationUpdated": "2024-05-17T09:53:31",
+        "Number": 154,
+        "IsDeferred": false,
+        "EVELType": "",
+        "EVELCountry": "",
+        "Title": "Motion to sit in private",
+        "AyeCount": 0,
+        "NoCount": 37,
+        "DoubleMajorityAyeCount": null,
+        "DoubleMajorityNoCount": null,
+        "AyeTellers": [
+            {
+                "MemberId": 4741,
+                "Name": "Nickie Aiken",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "Cities of London and Westminster",
+                "ListAs": "Aiken, Nickie",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4398,
+                "Name": "Chris Green",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "Bolton West",
+                "ListAs": "Green, Chris",
+                "ProxyName": null
+            }
+        ],
+        "NoTellers": [
+            {
+                "MemberId": 4837,
+                "Name": "Aaron Bell",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "Newcastle-under-Lyme",
+                "ListAs": "Bell, Aaron",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4384,
+                "Name": "Mike Wood",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "Dudley South",
+                "ListAs": "Wood, Mike",
+                "ProxyName": null
+            }
+        ],
+        "Ayes": [],
+        "Noes": [],
+        "FriendlyDescription": null,
+        "FriendlyTitle": null,
+        "NoVoteRecorded": [],
+        "RemoteVotingStart": null,
+        "RemoteVotingEnd": null
+    },
+    {
+        "DivisionId": 1817,
+        "Date": "2024-05-15T19:02:00",
+        "PublicationUpdated": "2024-05-15T19:25:56",
+        "Number": 153,
+        "IsDeferred": false,
+        "EVELType": "",
+        "EVELCountry": "",
+        "Title": "Criminal Justice Bill Report Stage: New Clause 91",
+        "AyeCount": 17,
+        "NoCount": 268,
+        "DoubleMajorityAyeCount": null,
+        "DoubleMajorityNoCount": null,
+        "AyeTellers": [
+            {
+                "MemberId": 4634,
+                "Name": "Christine Jardine",
+                "Party": "Liberal Democrat",
+                "SubParty": null,
+                "PartyColour": "f8a428",
+                "PartyAbbreviation": "LD",
+                "MemberFrom": "Edinburgh West",
+                "ListAs": "Jardine, Christine",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4918,
+                "Name": "Sarah Green",
+                "Party": "Liberal Democrat",
+                "SubParty": null,
+                "PartyColour": "f8a428",
+                "PartyAbbreviation": "LD",
+                "MemberFrom": "Chesham and Amersham",
+                "ListAs": "Green, Sarah",
+                "ProxyName": null
+            }
+        ],
+        "NoTellers": [
+            {
+                "MemberId": 4384,
+                "Name": "Mike Wood",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "Dudley South",
+                "ListAs": "Wood, Mike",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4372,
+                "Name": "Amanda Solloway",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "Derby North",
+                "ListAs": "Solloway, Amanda",
+                "ProxyName": null
+            }
+        ],
+        "Ayes": [],
+        "Noes": [],
+        "FriendlyDescription": null,
+        "FriendlyTitle": null,
+        "NoVoteRecorded": [],
+        "RemoteVotingStart": null,
+        "RemoteVotingEnd": null
+    },
+    {
+        "DivisionId": 1816,
+        "Date": "2024-05-15T18:48:00",
+        "PublicationUpdated": "2024-05-15T19:05:07",
+        "Number": 152,
+        "IsDeferred": false,
+        "EVELType": "",
+        "EVELCountry": "",
+        "Title": "Criminal Justice Bill Report Stage: New Clause 59",
+        "AyeCount": 171,
+        "NoCount": 272,
+        "DoubleMajorityAyeCount": null,
+        "DoubleMajorityNoCount": null,
+        "AyeTellers": [
+            {
+                "MemberId": 4871,
+                "Name": "Christian Wakeford",
+                "Party": "Labour",
+                "SubParty": null,
+                "PartyColour": "ea1d0e",
+                "PartyAbbreviation": "Lab",
+                "MemberFrom": "Bury South",
+                "ListAs": "Wakeford, Christian",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4126,
+                "Name": "Mary Glindon",
+                "Party": "Labour",
+                "SubParty": null,
+                "PartyColour": "ea1d0e",
+                "PartyAbbreviation": "Lab",
+                "MemberFrom": "North Tyneside",
+                "ListAs": "Glindon, Mary",
+                "ProxyName": null
+            }
+        ],
+        "NoTellers": [
+            {
+                "MemberId": 4384,
+                "Name": "Mike Wood",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "Dudley South",
+                "ListAs": "Wood, Mike",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4372,
+                "Name": "Amanda Solloway",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "Derby North",
+                "ListAs": "Solloway, Amanda",
+                "ProxyName": null
+            }
+        ],
+        "Ayes": [],
+        "Noes": [],
+        "FriendlyDescription": null,
+        "FriendlyTitle": null,
+        "NoVoteRecorded": [],
+        "RemoteVotingStart": null,
+        "RemoteVotingEnd": null
+    },
+    {
+        "DivisionId": 1815,
+        "Date": "2024-05-15T18:40:00",
+        "PublicationUpdated": "2024-05-15T18:53:09",
+        "Number": 151,
+        "IsDeferred": false,
+        "EVELType": "",
+        "EVELCountry": "",
+        "Title": "Criminal Justice Bill Report Stage: New Clause 44",
+        "AyeCount": 167,
+        "NoCount": 275,
+        "DoubleMajorityAyeCount": null,
+        "DoubleMajorityNoCount": null,
+        "AyeTellers": [
+            {
+                "MemberId": 4871,
+                "Name": "Christian Wakeford",
+                "Party": "Labour",
+                "SubParty": null,
+                "PartyColour": "ea1d0e",
+                "PartyAbbreviation": "Lab",
+                "MemberFrom": "Bury South",
+                "ListAs": "Wakeford, Christian",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4126,
+                "Name": "Mary Glindon",
+                "Party": "Labour",
+                "SubParty": null,
+                "PartyColour": "ea1d0e",
+                "PartyAbbreviation": "Lab",
+                "MemberFrom": "North Tyneside",
+                "ListAs": "Glindon, Mary",
+                "ProxyName": null
+            }
+        ],
+        "NoTellers": [
+            {
+                "MemberId": 4384,
+                "Name": "Mike Wood",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "Dudley South",
+                "ListAs": "Wood, Mike",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4372,
+                "Name": "Amanda Solloway",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "Derby North",
+                "ListAs": "Solloway, Amanda",
+                "ProxyName": null
+            }
+        ],
+        "Ayes": [],
+        "Noes": [],
+        "FriendlyDescription": null,
+        "FriendlyTitle": null,
+        "NoVoteRecorded": [],
+        "RemoteVotingStart": null,
+        "RemoteVotingEnd": null
+    },
+    {
+        "DivisionId": 1814,
+        "Date": "2024-05-13T20:25:00",
+        "PublicationUpdated": "2024-05-14T13:44:48",
+        "Number": 150,
+        "IsDeferred": false,
+        "EVELType": "",
+        "EVELCountry": "",
+        "Title": "Risk-based exclusion: amendment (o)",
+        "AyeCount": 170,
+        "NoCount": 169,
+        "DoubleMajorityAyeCount": null,
+        "DoubleMajorityNoCount": null,
+        "AyeTellers": [
+            {
+                "MemberId": 4378,
+                "Name": "Colleen Fletcher",
+                "Party": "Labour",
+                "SubParty": null,
+                "PartyColour": "ea1d0e",
+                "PartyAbbreviation": "Lab",
+                "MemberFrom": "Coventry North East",
+                "ListAs": "Fletcher, Colleen",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4979,
+                "Name": "Andrew Western",
+                "Party": "Labour",
+                "SubParty": null,
+                "PartyColour": "ea1d0e",
+                "PartyAbbreviation": "Lab",
+                "MemberFrom": "Stretford and Urmston",
+                "ListAs": "Western, Andrew",
+                "ProxyName": null
+            }
+        ],
+        "NoTellers": [
+            {
+                "MemberId": 4384,
+                "Name": "Mike Wood",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "Dudley South",
+                "ListAs": "Wood, Mike",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4804,
+                "Name": "Gagan Mohindra",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "South West Hertfordshire",
+                "ListAs": "Mohindra, Mr Gagan",
+                "ProxyName": null
+            }
+        ],
+        "Ayes": [],
+        "Noes": [],
+        "FriendlyDescription": null,
+        "FriendlyTitle": null,
+        "NoVoteRecorded": [],
+        "RemoteVotingStart": null,
+        "RemoteVotingEnd": null
+    },
+    {
+        "DivisionId": 1813,
+        "Date": "2024-05-08T16:54:00",
+        "PublicationUpdated": "2024-05-09T12:12:14",
+        "Number": 149,
+        "IsDeferred": false,
+        "EVELType": "",
+        "EVELCountry": "",
+        "Title": "Finance (No. 2) Bill Committee: New Clause 3",
+        "AyeCount": 198,
+        "NoCount": 269,
+        "DoubleMajorityAyeCount": null,
+        "DoubleMajorityNoCount": null,
+        "AyeTellers": [
+            {
+                "MemberId": 4976,
+                "Name": "Samantha Dixon",
+                "Party": "Labour",
+                "SubParty": null,
+                "PartyColour": "ea1d0e",
+                "PartyAbbreviation": "Lab",
+                "MemberFrom": "City of Chester",
+                "ListAs": "Dixon, Samantha",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4126,
+                "Name": "Mary Glindon",
+                "Party": "Labour",
+                "SubParty": null,
+                "PartyColour": "ea1d0e",
+                "PartyAbbreviation": "Lab",
+                "MemberFrom": "North Tyneside",
+                "ListAs": "Glindon, Mary",
+                "ProxyName": null
+            }
+        ],
+        "NoTellers": [
+            {
+                "MemberId": 4804,
+                "Name": "Gagan Mohindra",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "South West Hertfordshire",
+                "ListAs": "Mohindra, Mr Gagan",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4774,
+                "Name": "Mark Fletcher",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "Bolsover",
+                "ListAs": "Fletcher, Mark",
+                "ProxyName": null
+            }
+        ],
+        "Ayes": [],
+        "Noes": [],
+        "FriendlyDescription": null,
+        "FriendlyTitle": null,
+        "NoVoteRecorded": [],
+        "RemoteVotingStart": null,
+        "RemoteVotingEnd": null
+    },
+    {
+        "DivisionId": 1812,
+        "Date": "2024-05-08T16:40:00",
+        "PublicationUpdated": "2024-05-08T17:52:55",
+        "Number": 148,
+        "IsDeferred": false,
+        "EVELType": "",
+        "EVELCountry": "",
+        "Title": "Finance (No. 2) Bill Committee: New Clause 2",
+        "AyeCount": 195,
+        "NoCount": 266,
+        "DoubleMajorityAyeCount": null,
+        "DoubleMajorityNoCount": null,
+        "AyeTellers": [
+            {
+                "MemberId": 4126,
+                "Name": "Mary Glindon",
+                "Party": "Labour",
+                "SubParty": null,
+                "PartyColour": "ea1d0e",
+                "PartyAbbreviation": "Lab",
+                "MemberFrom": "North Tyneside",
+                "ListAs": "Glindon, Mary",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4976,
+                "Name": "Samantha Dixon",
+                "Party": "Labour",
+                "SubParty": null,
+                "PartyColour": "ea1d0e",
+                "PartyAbbreviation": "Lab",
+                "MemberFrom": "City of Chester",
+                "ListAs": "Dixon, Samantha",
+                "ProxyName": null
+            }
+        ],
+        "NoTellers": [
+            {
+                "MemberId": 4774,
+                "Name": "Mark Fletcher",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "Bolsover",
+                "ListAs": "Fletcher, Mark",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4804,
+                "Name": "Gagan Mohindra",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "South West Hertfordshire",
+                "ListAs": "Mohindra, Mr Gagan",
+                "ProxyName": null
+            }
+        ],
+        "Ayes": [],
+        "Noes": [],
+        "FriendlyDescription": null,
+        "FriendlyTitle": null,
+        "NoVoteRecorded": [],
+        "RemoteVotingStart": null,
+        "RemoteVotingEnd": null
+    },
+    {
+        "DivisionId": 1811,
+        "Date": "2024-05-08T15:42:00",
+        "PublicationUpdated": "2024-05-08T16:23:27",
+        "Number": 147,
+        "IsDeferred": false,
+        "EVELType": "",
+        "EVELCountry": "",
+        "Title": "Finance (No. 2) Bill Committee: New Clause 4",
+        "AyeCount": 212,
+        "NoCount": 274,
+        "DoubleMajorityAyeCount": null,
+        "DoubleMajorityNoCount": null,
+        "AyeTellers": [
+            {
+                "MemberId": 4126,
+                "Name": "Mary Glindon",
+                "Party": "Labour",
+                "SubParty": null,
+                "PartyColour": "ea1d0e",
+                "PartyAbbreviation": "Lab",
+                "MemberFrom": "North Tyneside",
+                "ListAs": "Glindon, Mary",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4976,
+                "Name": "Samantha Dixon",
+                "Party": "Labour",
+                "SubParty": null,
+                "PartyColour": "ea1d0e",
+                "PartyAbbreviation": "Lab",
+                "MemberFrom": "City of Chester",
+                "ListAs": "Dixon, Samantha",
+                "ProxyName": null
+            }
+        ],
+        "NoTellers": [
+            {
+                "MemberId": 4774,
+                "Name": "Mark Fletcher",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "Bolsover",
+                "ListAs": "Fletcher, Mark",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4852,
+                "Name": "Robert Largan",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "High Peak",
+                "ListAs": "Largan, Robert",
+                "ProxyName": null
+            }
+        ],
+        "Ayes": [],
+        "Noes": [],
+        "FriendlyDescription": null,
+        "FriendlyTitle": null,
+        "NoVoteRecorded": [],
+        "RemoteVotingStart": null,
+        "RemoteVotingEnd": null
+    },
+    {
+        "DivisionId": 1810,
+        "Date": "2024-05-08T15:26:00",
+        "PublicationUpdated": "2024-05-08T16:20:50",
+        "Number": 146,
+        "IsDeferred": false,
+        "EVELType": "",
+        "EVELCountry": "",
+        "Title": "Finance (No. 2) Bill Committee: New Clause 1",
+        "AyeCount": 211,
+        "NoCount": 276,
+        "DoubleMajorityAyeCount": null,
+        "DoubleMajorityNoCount": null,
+        "AyeTellers": [
+            {
+                "MemberId": 4126,
+                "Name": "Mary Glindon",
+                "Party": "Labour",
+                "SubParty": null,
+                "PartyColour": "ea1d0e",
+                "PartyAbbreviation": "Lab",
+                "MemberFrom": "North Tyneside",
+                "ListAs": "Glindon, Mary",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4976,
+                "Name": "Samantha Dixon",
+                "Party": "Labour",
+                "SubParty": null,
+                "PartyColour": "ea1d0e",
+                "PartyAbbreviation": "Lab",
+                "MemberFrom": "City of Chester",
+                "ListAs": "Dixon, Samantha",
+                "ProxyName": null
+            }
+        ],
+        "NoTellers": [
+            {
+                "MemberId": 4774,
+                "Name": "Mark Fletcher",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "Bolsover",
+                "ListAs": "Fletcher, Mark",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4852,
+                "Name": "Robert Largan",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "High Peak",
+                "ListAs": "Largan, Robert",
+                "ProxyName": null
+            }
+        ],
+        "Ayes": [],
+        "Noes": [],
+        "FriendlyDescription": null,
+        "FriendlyTitle": null,
+        "NoVoteRecorded": [],
+        "RemoteVotingStart": null,
+        "RemoteVotingEnd": null
+    },
+    {
+        "DivisionId": 1809,
+        "Date": "2024-04-30T16:52:00",
+        "PublicationUpdated": "2024-04-30T17:07:42",
+        "Number": 145,
+        "IsDeferred": false,
+        "EVELType": "",
+        "EVELCountry": "",
+        "Title": "Digital Markets, Competition and Consumers Bill: motion to disagree with Lords Amendment 104",
+        "AyeCount": 273,
+        "NoCount": 163,
+        "DoubleMajorityAyeCount": null,
+        "DoubleMajorityNoCount": null,
+        "AyeTellers": [
+            {
+                "MemberId": 4852,
+                "Name": "Robert Largan",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "High Peak",
+                "ListAs": "Largan, Robert",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4752,
+                "Name": "Mark Jenkinson",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "Workington",
+                "ListAs": "Jenkinson, Mark",
+                "ProxyName": null
+            }
+        ],
+        "NoTellers": [
+            {
+                "MemberId": 4378,
+                "Name": "Colleen Fletcher",
+                "Party": "Labour",
+                "SubParty": null,
+                "PartyColour": "ea1d0e",
+                "PartyAbbreviation": "Lab",
+                "MemberFrom": "Coventry North East",
+                "ListAs": "Fletcher, Colleen",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4456,
+                "Name": "Jeff Smith",
+                "Party": "Labour",
+                "SubParty": null,
+                "PartyColour": "ea1d0e",
+                "PartyAbbreviation": "Lab",
+                "MemberFrom": "Manchester, Withington",
+                "ListAs": "Smith, Jeff",
+                "ProxyName": null
+            }
+        ],
+        "Ayes": [],
+        "Noes": [],
+        "FriendlyDescription": null,
+        "FriendlyTitle": null,
+        "NoVoteRecorded": [],
+        "RemoteVotingStart": null,
+        "RemoteVotingEnd": null
+    },
+    {
+        "DivisionId": 1808,
+        "Date": "2024-04-30T16:40:00",
+        "PublicationUpdated": "2024-04-30T16:58:51",
+        "Number": 144,
+        "IsDeferred": false,
+        "EVELType": "",
+        "EVELCountry": "",
+        "Title": "Digital Markets, Competition and Consumers Bill: motion to disagree with Lords Amendment 31",
+        "AyeCount": 272,
+        "NoCount": 162,
+        "DoubleMajorityAyeCount": null,
+        "DoubleMajorityNoCount": null,
+        "AyeTellers": [
+            {
+                "MemberId": 4752,
+                "Name": "Mark Jenkinson",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "Workington",
+                "ListAs": "Jenkinson, Mark",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4852,
+                "Name": "Robert Largan",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "High Peak",
+                "ListAs": "Largan, Robert",
+                "ProxyName": null
+            }
+        ],
+        "NoTellers": [
+            {
+                "MemberId": 4456,
+                "Name": "Jeff Smith",
+                "Party": "Labour",
+                "SubParty": null,
+                "PartyColour": "ea1d0e",
+                "PartyAbbreviation": "Lab",
+                "MemberFrom": "Manchester, Withington",
+                "ListAs": "Smith, Jeff",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4378,
+                "Name": "Colleen Fletcher",
+                "Party": "Labour",
+                "SubParty": null,
+                "PartyColour": "ea1d0e",
+                "PartyAbbreviation": "Lab",
+                "MemberFrom": "Coventry North East",
+                "ListAs": "Fletcher, Colleen",
+                "ProxyName": null
+            }
+        ],
+        "Ayes": [],
+        "Noes": [],
+        "FriendlyDescription": null,
+        "FriendlyTitle": null,
+        "NoVoteRecorded": [],
+        "RemoteVotingStart": null,
+        "RemoteVotingEnd": null
+    },
+    {
+        "DivisionId": 1807,
+        "Date": "2024-04-30T16:26:00",
+        "PublicationUpdated": "2024-04-30T17:09:15",
+        "Number": 143,
+        "IsDeferred": false,
+        "EVELType": "",
+        "EVELCountry": "",
+        "Title": "Digital Markets, Competition and Consumers Bill: motion to disagree with Lords Amendment 26",
+        "AyeCount": 274,
+        "NoCount": 162,
+        "DoubleMajorityAyeCount": null,
+        "DoubleMajorityNoCount": null,
+        "AyeTellers": [
+            {
+                "MemberId": 4752,
+                "Name": "Mark Jenkinson",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "Workington",
+                "ListAs": "Jenkinson, Mark",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4852,
+                "Name": "Robert Largan",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "High Peak",
+                "ListAs": "Largan, Robert",
+                "ProxyName": null
+            }
+        ],
+        "NoTellers": [
+            {
+                "MemberId": 4378,
+                "Name": "Colleen Fletcher",
+                "Party": "Labour",
+                "SubParty": null,
+                "PartyColour": "ea1d0e",
+                "PartyAbbreviation": "Lab",
+                "MemberFrom": "Coventry North East",
+                "ListAs": "Fletcher, Colleen",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4456,
+                "Name": "Jeff Smith",
+                "Party": "Labour",
+                "SubParty": null,
+                "PartyColour": "ea1d0e",
+                "PartyAbbreviation": "Lab",
+                "MemberFrom": "Manchester, Withington",
+                "ListAs": "Smith, Jeff",
+                "ProxyName": null
+            }
+        ],
+        "Ayes": [],
+        "Noes": [],
+        "FriendlyDescription": null,
+        "FriendlyTitle": null,
+        "NoVoteRecorded": [],
+        "RemoteVotingStart": null,
+        "RemoteVotingEnd": null
+    },
+    {
+        "DivisionId": 1806,
+        "Date": "2024-04-30T16:13:00",
+        "PublicationUpdated": "2024-04-30T16:28:42",
+        "Number": 142,
+        "IsDeferred": false,
+        "EVELType": "",
+        "EVELCountry": "",
+        "Title": "Digital Markets, Competition and Consumers Bill: motion to disagree with Lords Amendment 12",
+        "AyeCount": 276,
+        "NoCount": 161,
+        "DoubleMajorityAyeCount": null,
+        "DoubleMajorityNoCount": null,
+        "AyeTellers": [
+            {
+                "MemberId": 4752,
+                "Name": "Mark Jenkinson",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "Workington",
+                "ListAs": "Jenkinson, Mark",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4852,
+                "Name": "Robert Largan",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "High Peak",
+                "ListAs": "Largan, Robert",
+                "ProxyName": null
+            }
+        ],
+        "NoTellers": [
+            {
+                "MemberId": 4456,
+                "Name": "Jeff Smith",
+                "Party": "Labour",
+                "SubParty": null,
+                "PartyColour": "ea1d0e",
+                "PartyAbbreviation": "Lab",
+                "MemberFrom": "Manchester, Withington",
+                "ListAs": "Smith, Jeff",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4378,
+                "Name": "Colleen Fletcher",
+                "Party": "Labour",
+                "SubParty": null,
+                "PartyColour": "ea1d0e",
+                "PartyAbbreviation": "Lab",
+                "MemberFrom": "Coventry North East",
+                "ListAs": "Fletcher, Colleen",
+                "ProxyName": null
+            }
+        ],
+        "Ayes": [],
+        "Noes": [],
+        "FriendlyDescription": null,
+        "FriendlyTitle": null,
+        "NoVoteRecorded": [],
+        "RemoteVotingStart": null,
+        "RemoteVotingEnd": null
+    },
+    {
+        "DivisionId": 1805,
+        "Date": "2024-04-30T15:59:00",
+        "PublicationUpdated": "2024-04-30T16:19:55",
+        "Number": 141,
+        "IsDeferred": false,
+        "EVELType": "",
+        "EVELCountry": "",
+        "Title": "Digital Markets, Competition and Consumers Bill: motion to disagree with Lords Amendment 9",
+        "AyeCount": 273,
+        "NoCount": 159,
+        "DoubleMajorityAyeCount": null,
+        "DoubleMajorityNoCount": null,
+        "AyeTellers": [
+            {
+                "MemberId": 4752,
+                "Name": "Mark Jenkinson",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "Workington",
+                "ListAs": "Jenkinson, Mark",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4852,
+                "Name": "Robert Largan",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "High Peak",
+                "ListAs": "Largan, Robert",
+                "ProxyName": null
+            }
+        ],
+        "NoTellers": [
+            {
+                "MemberId": 4456,
+                "Name": "Jeff Smith",
+                "Party": "Labour",
+                "SubParty": null,
+                "PartyColour": "ea1d0e",
+                "PartyAbbreviation": "Lab",
+                "MemberFrom": "Manchester, Withington",
+                "ListAs": "Smith, Jeff",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4378,
+                "Name": "Colleen Fletcher",
+                "Party": "Labour",
+                "SubParty": null,
+                "PartyColour": "ea1d0e",
+                "PartyAbbreviation": "Lab",
+                "MemberFrom": "Coventry North East",
+                "ListAs": "Fletcher, Colleen",
+                "ProxyName": null
+            }
+        ],
+        "Ayes": [],
+        "Noes": [],
+        "FriendlyDescription": null,
+        "FriendlyTitle": null,
+        "NoVoteRecorded": [],
+        "RemoteVotingStart": null,
+        "RemoteVotingEnd": null
+    },
+    {
+        "DivisionId": 1804,
+        "Date": "2024-04-29T18:58:00",
+        "PublicationUpdated": "2024-04-29T19:17:43",
+        "Number": 140,
+        "IsDeferred": false,
+        "EVELType": "",
+        "EVELCountry": "",
+        "Title": "Post Office (Horizon System) Offences Bill: Instruction (Scotland)",
+        "AyeCount": 42,
+        "NoCount": 265,
+        "DoubleMajorityAyeCount": null,
+        "DoubleMajorityNoCount": null,
+        "AyeTellers": [
+            {
+                "MemberId": 4466,
+                "Name": "Peter Grant",
+                "Party": "Scottish National Party",
+                "SubParty": null,
+                "PartyColour": "fcf28f",
+                "PartyAbbreviation": "SNP",
+                "MemberFrom": "Glenrothes",
+                "ListAs": "Grant, Peter",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4420,
+                "Name": "Gavin Newlands",
+                "Party": "Scottish National Party",
+                "SubParty": null,
+                "PartyColour": "fcf28f",
+                "PartyAbbreviation": "SNP",
+                "MemberFrom": "Paisley and Renfrewshire North",
+                "ListAs": "Newlands, Gavin",
+                "ProxyName": null
+            }
+        ],
+        "NoTellers": [
+            {
+                "MemberId": 4852,
+                "Name": "Robert Largan",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "High Peak",
+                "ListAs": "Largan, Robert",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4837,
+                "Name": "Aaron Bell",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "Newcastle-under-Lyme",
+                "ListAs": "Bell, Aaron",
+                "ProxyName": null
+            }
+        ],
+        "Ayes": [],
+        "Noes": [],
+        "FriendlyDescription": null,
+        "FriendlyTitle": null,
+        "NoVoteRecorded": [],
+        "RemoteVotingStart": null,
+        "RemoteVotingEnd": null
+    },
+    {
+        "DivisionId": 1803,
+        "Date": "2024-04-24T18:03:00",
+        "PublicationUpdated": "2024-04-24T18:20:54",
+        "Number": 139,
+        "IsDeferred": false,
+        "EVELType": "",
+        "EVELCountry": "",
+        "Title": "Renters (Reform) Bill Report Stage: Amendment 28",
+        "AyeCount": 158,
+        "NoCount": 282,
+        "DoubleMajorityAyeCount": null,
+        "DoubleMajorityNoCount": null,
+        "AyeTellers": [
+            {
+                "MemberId": 4759,
+                "Name": "Joy Morrissey",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "Beaconsfield",
+                "ListAs": "Morrissey, Joy",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4752,
+                "Name": "Mark Jenkinson",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "Workington",
+                "ListAs": "Jenkinson, Mark",
+                "ProxyName": null
+            }
+        ],
+        "NoTellers": [
+            {
+                "MemberId": 4378,
+                "Name": "Colleen Fletcher",
+                "Party": "Labour",
+                "SubParty": null,
+                "PartyColour": "ea1d0e",
+                "PartyAbbreviation": "Lab",
+                "MemberFrom": "Coventry North East",
+                "ListAs": "Fletcher, Colleen",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4871,
+                "Name": "Christian Wakeford",
+                "Party": "Labour",
+                "SubParty": null,
+                "PartyColour": "ea1d0e",
+                "PartyAbbreviation": "Lab",
+                "MemberFrom": "Bury South",
+                "ListAs": "Wakeford, Christian",
+                "ProxyName": null
+            }
+        ],
+        "Ayes": [],
+        "Noes": [],
+        "FriendlyDescription": null,
+        "FriendlyTitle": null,
+        "NoVoteRecorded": [],
+        "RemoteVotingStart": null,
+        "RemoteVotingEnd": null
+    },
+    {
+        "DivisionId": 1802,
+        "Date": "2024-04-24T17:41:00",
+        "PublicationUpdated": "2024-04-29T15:29:22",
+        "Number": 138,
+        "IsDeferred": false,
+        "EVELType": "",
+        "EVELCountry": "",
+        "Title": "Renters (Reform) Bill Report Stage: New Clause 30",
+        "AyeCount": 287,
+        "NoCount": 144,
+        "DoubleMajorityAyeCount": null,
+        "DoubleMajorityNoCount": null,
+        "AyeTellers": [
+            {
+                "MemberId": 4759,
+                "Name": "Joy Morrissey",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "Beaconsfield",
+                "ListAs": "Morrissey, Joy",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4752,
+                "Name": "Mark Jenkinson",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "Workington",
+                "ListAs": "Jenkinson, Mark",
+                "ProxyName": null
+            }
+        ],
+        "NoTellers": [
+            {
+                "MemberId": 4378,
+                "Name": "Colleen Fletcher",
+                "Party": "Labour",
+                "SubParty": null,
+                "PartyColour": "ea1d0e",
+                "PartyAbbreviation": "Lab",
+                "MemberFrom": "Coventry North East",
+                "ListAs": "Fletcher, Colleen",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4871,
+                "Name": "Christian Wakeford",
+                "Party": "Labour",
+                "SubParty": null,
+                "PartyColour": "ea1d0e",
+                "PartyAbbreviation": "Lab",
+                "MemberFrom": "Bury South",
+                "ListAs": "Wakeford, Christian",
+                "ProxyName": null
+            }
+        ],
+        "Ayes": [],
+        "Noes": [],
+        "FriendlyDescription": null,
+        "FriendlyTitle": null,
+        "NoVoteRecorded": [],
+        "RemoteVotingStart": null,
+        "RemoteVotingEnd": null
+    },
+    {
+        "DivisionId": 1801,
+        "Date": "2024-04-24T17:26:00",
+        "PublicationUpdated": "2024-04-29T15:29:08",
+        "Number": 137,
+        "IsDeferred": false,
+        "EVELType": "",
+        "EVELCountry": "",
+        "Title": "Renters (Reform) Bill Report Stage: New Clause 15",
+        "AyeCount": 283,
+        "NoCount": 143,
+        "DoubleMajorityAyeCount": null,
+        "DoubleMajorityNoCount": null,
+        "AyeTellers": [
+            {
+                "MemberId": 4759,
+                "Name": "Joy Morrissey",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "Beaconsfield",
+                "ListAs": "Morrissey, Joy",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4752,
+                "Name": "Mark Jenkinson",
+                "Party": "Conservative",
+                "SubParty": null,
+                "PartyColour": "0000ff",
+                "PartyAbbreviation": "Con",
+                "MemberFrom": "Workington",
+                "ListAs": "Jenkinson, Mark",
+                "ProxyName": null
+            }
+        ],
+        "NoTellers": [
+            {
+                "MemberId": 4378,
+                "Name": "Colleen Fletcher",
+                "Party": "Labour",
+                "SubParty": null,
+                "PartyColour": "ea1d0e",
+                "PartyAbbreviation": "Lab",
+                "MemberFrom": "Coventry North East",
+                "ListAs": "Fletcher, Colleen",
+                "ProxyName": null
+            },
+            {
+                "MemberId": 4871,
+                "Name": "Christian Wakeford",
+                "Party": "Labour",
+                "SubParty": null,
+                "PartyColour": "ea1d0e",
+                "PartyAbbreviation": "Lab",
+                "MemberFrom": "Bury South",
+                "ListAs": "Wakeford, Christian",
+                "ProxyName": null
+            }
+        ],
+        "Ayes": [],
+        "Noes": [],
+        "FriendlyDescription": null,
+        "FriendlyTitle": null,
+        "NoVoteRecorded": [],
+        "RemoteVotingStart": null,
+        "RemoteVotingEnd": null
+    },
+    {
+        "DivisionId": 1800,
+        "Date": "2024-04-24T00:00:00",
+        "PublicationUpdated": "2024-04-24T15:56:02",
+        "Number": 136,
+        "IsDeferred": true,
+        "EVELType": "",
+        "EVELCountry": "",
+        "Title": "the draft Economic Growth (Regulatory Functions) (Amendment) Order 2024",
+        "AyeCount": 395,
+        "NoCount": 50,
+        "DoubleMajorityAyeCount": null,
+        "DoubleMajorityNoCount": null,
+        "AyeTellers": null,
+        "NoTellers": null,
+        "Ayes": [],
+        "Noes": [],
+        "FriendlyDescription": null,
+        "FriendlyTitle": null,
+        "NoVoteRecorded": [],
+        "RemoteVotingStart": null,
+        "RemoteVotingEnd": null
+    }
+]
